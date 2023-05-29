@@ -37,8 +37,8 @@ Using the cosine_similarity function from sklearn.metrics.pairwise, the similari
 The project includes a web app created with the help of the pickle library and Streamlit framework. The serialized data and similarity matrix were loaded using pickle to enable real-time recommendations based on user input.
 
 ![image](https://github.com/atharv-patil/anime-recommendation-system/assets/83455141/210c9e52-a98a-478e-98bc-007ea801b886)
+![working](https://github.com/atharv-patil/anime-recommendation-system/assets/83455141/a187ce3b-6561-4365-bf76-3ce47b4bfe85)
 
-https://github.com/atharv-patil/anime-recommendation-system/assets/83455141/cedf1ee6-a205-4c53-97bf-be9030dcb6fa
 
 ## Usage
 
