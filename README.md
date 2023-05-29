@@ -1,8 +1,9 @@
 # Anime Recommendation System
-![image](https://github.com/atharv-patil/anime-recommendation-system/assets/83455141/ad71425d-1310-4ae9-be75-0c1fe185a121)   
+![image](https://github.com/atharv-patil/anime-recommendation-system/assets/83455141/ad71425d-1310-4ae9-be75-0c1fe185a121) 
 
-Anime Recommendation System is a project that provides personalized anime recommendations based on user input. It utilizes a dataset scrapped from [Anime Planet](https://www.anime-planet.com/) and employs various techniques such as data cleaning, text preprocessing, feature extraction, and similarity calculation to generate accurate recommendations.<br>
-The dataset used in this project can be found on this [Kaggle article](https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022). It consists of 18,495 rows and 17 columns. For simplicity, 5,000 rows were used in this project.
+Anime Recommendation System is a content-based recommendation system that provides personalized anime recommendations based on user preferences. It utilizes a dataset scraped from [Anime Planet](https://www.anime-planet.com/) and employs various techniques such as data cleaning, text preprocessing, and feature extraction to create a content representation for each anime.<br>
+Using the content representation of the selected anime, the recommendation system calculates the similarity between the selected anime and other anime in the [dataset](https://github.com/atharv-patil/anime-recommendation-system/blob/main/anime.csv). It then generates a list of the top 5 recommended anime based on their similarity scores.<br>
+The recommendation system focuses on leveraging the characteristics and features of individual anime to make recommendations. It does not consider collaborative filtering or user preferences. Instead, it identifies similar anime based on the content attributes such as genres, themes, and descriptions.
 
 ## Table of Contents
 - [Data Cleaning](#data-cleaning)
