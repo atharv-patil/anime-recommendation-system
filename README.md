@@ -17,7 +17,7 @@ The dataset used in this project can be found on this [Kaggle article](https://w
 
 ## Data Cleaning
 
-The data was cleaned using the NumPy and Pandas libraries. Preprocessing steps, such as handling missing values and removing duplicates, were performed to ensure the data quality. Here is the link of [Jupyter Notebook](https://github.com/atharv-patil/anime-recommendation-system/blob/main/anime-recommender-system.ipynb).
+The [data](https://github.com/atharv-patil/anime-recommendation-system/blob/main/anime.csv) was cleaned using the NumPy and Pandas libraries. Preprocessing steps, such as handling missing values and removing duplicates, were performed to ensure the data quality. Here is the link of [Jupyter Notebook](https://github.com/atharv-patil/anime-recommendation-system/blob/main/anime-recommender-system.ipynb).
 
 ## Text Preprocessing
 
